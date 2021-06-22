@@ -311,6 +311,16 @@ PrefabInstance:
       propertyPath: m_Controller
       value: 
       objectReference: {fileID: 9100000, guid: 959c879ae15d0704b87f1c6a6cf7ad05, type: 2}
+    - target: {fileID: 8566135835338857720, guid: 06586285095be6c4c9c43c95e5cfd455,
+        type: 3}
+      propertyPath: m_UpdateMode
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8566135835338857720, guid: 06586285095be6c4c9c43c95e5cfd455,
+        type: 3}
+      propertyPath: m_ApplyRootMotion
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 8566135835346023168, guid: 06586285095be6c4c9c43c95e5cfd455,
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -775,6 +785,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: JohnLemon
+      objectReference: {fileID: 0}
+    - target: {fileID: 9145739482859587628, guid: 06586285095be6c4c9c43c95e5cfd455,
+        type: 3}
+      propertyPath: m_Constraints
+      value: 84
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 06586285095be6c4c9c43c95e5cfd455, type: 3}
